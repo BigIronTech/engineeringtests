@@ -39,7 +39,7 @@ We strongly recommend building your example project using appropriate items from
   
 # Specific deliverables for all tests
 * Please include **at least one unit or integration test** in your project.  Please leave a comment explaining if it is a unit test or an integration test.
-* **The project** itself with all source code, data & anicllary files needed to run the project locally.
+* **The project** itself with all source code, data & ancillary files needed to run the project locally.
 * A **readme.md** file with documetation at level that you would include for any greenfield project.  Write it with the intent that you are handing off the project to a team of unknown skill and experience.
 * A **roadmap.md** file describing what you would do if you were spending another 2 days, 2 weeks, 4 weeks, and 8 weeks on this project.
 * A **userdoc.md** file explaining how to use the software you've created.  Write it for the users described in the user-story.md file.  Be sure to notate any areas where corners were cut and how users can work around them to be successful.
