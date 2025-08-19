@@ -22,7 +22,7 @@ These exercises are NOT pass/fail and are not evaluated on a single metric.  We 
 # Submission Instructions
 
 1. Choose a test in a directory that matches the position and seniority that you are applying for.
-2. Read the user-story.md file in that directory.
+2. Read the **user-story.md** file in that directory.
 3. Send any questions to michael.mccann@bigiron.com
 4. Complete the coding exercise within the time box described earlier.
 5. When complete, create a new private repository, upload all deliverables to it and invite michael.mccann@bigiron.com to the repository that you created.
