@@ -1,5 +1,5 @@
 # User Story
-As an ISR, I would like a web application that I can upload the lead list given to me by my manager, and if I made one, my own separate lead list that as well.  
+As an ISR, I would like a web application that I can upload the lead list given to me by my manager, and if I made one, my own separate lead list as well.  
 
 After uploading, I would like to receive a combined list of all my leads.  They should be ordered so that I visit all the leads with the shortest total commute distance. 
 
@@ -18,5 +18,6 @@ This application will help reduce the mileage costs incurred by bigiron and help
 * Approximately 100 ISRs (sales people; interested in visiting all of their leads in an optimal way)
 * Sales managers 
 * Finance team (interested in reducing mileage spend)
+
 
 
