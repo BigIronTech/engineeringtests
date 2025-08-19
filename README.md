@@ -1,13 +1,13 @@
-# Engineering Tests
+# Engineering Work Samples
 
-This repository holds the take-home tests for various positions inside of BigIron.   If you are here, you have likely made it past the screening interviews and are in the later stages of the interview process.  We're excited that you've made it this far.
+This repository holds the take-home work sample assignments for various positions inside of BigIron.   If you are here, you have likely made it past the screening interviews and are in the later stages of the interview process.  We're excited that you've made it this far.
 
-At this stage in the interview process, we want to gain a deeper understanding of your work and give you the opportunity to show off your technical skills & knowledge.  To that end, we are requesting that you choose a take-home exercise and complete it.
+At this stage in the interview process, we want to gain a deeper understanding of your work and give you the opportunity to show off your technical skills & knowledge.  To that end, we are requesting that you choose a take-home work sample assignment and complete it.
 
 
 ## Time box
 
-You should spend no more than four hours on the exercise in total.  We understand that this may not be enough time to adhere to your normal standards of quality.  Please add comments to the code explaining where you cut corners, why you decided to cut that corner and how you would do things differently if you had more time.
+You should spend no more than four hours on the work sample.  We understand that this may not be enough time to adhere to your normal standards of quality.  Please add comments to the code explaining where you cut corners, why you decided to cut that corner and how you would do things differently if you had more time.
 
 The small time box provides you with the opportunity to demonstrate your ability to prioritize functional and non-functional requirements inside of a tight business deadline.
 
@@ -18,7 +18,7 @@ Please do not use AI (including co-pilot) to complete any part of this exercise.
 ## Tech Stack
 Our tech stack is: C#, ASP.NET MVC, React, Tanstack, JQuery, Razor/Blazor pages, CSS, SCSS, JavaScript, TypeScript, MSSQL, Bootstrap, Tailwind, ShadCN, Redis & ElasticSearch.  We prefer REST over RPC and SOAP.
 
-We strongly recommend building your example project using appropriate items from our tech stack but this is not a strict requirement.
+We strongly recommend building your work sample using appropriate items from our tech stack but this is not a strict requirement.
 
 
 ## Evaluation
