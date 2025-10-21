@@ -1,0 +1,14 @@
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\obj\Debug\net8.0\GeocoordinateBug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\obj\Debug\net8.0\GeocoordinateBug.AssemblyInfoInputs.cache
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\obj\Debug\net8.0\GeocoordinateBug.AssemblyInfo.cs
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\obj\Debug\net8.0\GeocoordinateBug.csproj.CoreCompileInputs.cache
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\bin\Debug\net8.0\GeocoordinateBug.exe
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\bin\Debug\net8.0\GeocoordinateBug.deps.json
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\bin\Debug\net8.0\GeocoordinateBug.runtimeconfig.json
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\bin\Debug\net8.0\GeocoordinateBug.dll
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\bin\Debug\net8.0\GeocoordinateBug.pdb
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\obj\Debug\net8.0\GeocoordinateBug.dll
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\obj\Debug\net8.0\refint\GeocoordinateBug.dll
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\obj\Debug\net8.0\GeocoordinateBug.pdb
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\obj\Debug\net8.0\GeocoordinateBug.genruntimeconfig.cache
+C:\Users\MichaelMcCann\source\repos\GeocoordinateBug\GeocoordinateBug\obj\Debug\net8.0\ref\GeocoordinateBug.dll
